@@ -1,5 +1,5 @@
 ﻿{
-  "version":"15",
+  "version":"16",
   "version_beta":"14",
   "source":"",
   "compiled":"https://github.com/idgafboom/mhk_LockedTools/releases/latest/download/LockedTool_exe.zip",
